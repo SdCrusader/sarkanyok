@@ -1,4 +1,9 @@
-
+body {
+    background-image: url('hatterkep.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+  }
 
 
 .keret {
