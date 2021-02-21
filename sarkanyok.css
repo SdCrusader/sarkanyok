@@ -27,3 +27,12 @@ a:hover {
 div { height:920px;  width: 120px;
     margin:30px;  border:0px ;  padding: 30px;
     background-color:rgba(255,255,255,.7); }  
+
+.forras{
+    font-size: 10px;
+    
+}
+.div_2{
+    height:20px;  width: 20px;
+    text-align: right;
+}
