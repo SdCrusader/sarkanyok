@@ -22,6 +22,9 @@ a:hover {
 
 .jobbrakep {
     float: right;
+    margin-left: 20px;
+    margin-bottom: 30px;
+
 }
 
 div { height:920px;  width: 120px;
