@@ -5,10 +5,10 @@ body {
     background-size: cover;
   }
 
-
 .keret {
     width: 80%;
     margin: 0 auto;
+    ;
 }
 
 a {
@@ -23,3 +23,7 @@ a:hover {
 .jobbrakep {
     float: right;
 }
+
+div { height:920px;  width: 120px;
+    margin:30px;  border:0px ;  padding: 30px;
+    background-color:rgba(255,255,255,.7); }  
